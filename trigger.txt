@@ -1,1 +1,1 @@
-jonnyan404/verysync:latest registry.cn-hangzhou.aliyuncs.com/kellyli/verysync:latest
+johngong/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/kellyli/qbittorrent:latest
