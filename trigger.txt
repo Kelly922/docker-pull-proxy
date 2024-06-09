@@ -1,1 +1,1 @@
-plexinc/pms-docker:latest registry.cn-hangzhou.aliyuncs.com/kellyli/pms-docker:latest
+linuxserver/calibre-web:amd64-latest registry.cn-hangzhou.aliyuncs.com/kellyli/calibre-web:amd64-latest
