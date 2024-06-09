@@ -1,1 +1,1 @@
-linuxserver/calibre-web:amd64-latest registry.cn-hangzhou.aliyuncs.com/kellyli/calibre-web:amd64-latest
+wiznote/wizserver:latest registry.cn-hangzhou.aliyuncs.com/kellyli/wizserver:latest
