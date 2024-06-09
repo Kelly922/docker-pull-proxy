@@ -1,1 +1,1 @@
-linuxserver/jackett:0.22.89 registry.cn-hangzhou.aliyuncs.com/kellyli/jackett:0.22.89
+diluka/nas-tools:2.9.1 registry.cn-hangzhou.aliyuncs.com/kellyli/nas-tools:2.9.1
