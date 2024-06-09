@@ -1,1 +1,1 @@
-zonty/nas-tools registry.cn-hangzhou.aliyuncs.com/kellyli/nastools
+zonty/nas-tools registry.cn-hangzhou.aliyuncs.com/kellyli/nas-tools
