@@ -1,1 +1,1 @@
-johngong/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/kellyli/qbittorrent:latest
+zonty/nas-tools registry.cn-hangzhou.aliyuncs.com/kellyli/nastools
