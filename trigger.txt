@@ -1,1 +1,1 @@
-kangkang223/openwrt:z4 registry.cn-hangzhou.aliyuncs.com/kellyli/openwrt:z4
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/kellyli/alist:latest
