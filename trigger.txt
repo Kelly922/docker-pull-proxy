@@ -1,1 +1,1 @@
-jellyfin/jellyfin registry.cn-hangzhou.aliyuncs.com/kellyli/jellyfin
+linuxserver/jackett:0.22.89 registry.cn-hangzhou.aliyuncs.com/kellyli/jackett:0.22.89
