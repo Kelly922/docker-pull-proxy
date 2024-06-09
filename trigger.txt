@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/kellyli/alist:latest
+plexinc/pms-docker:latest registry.cn-hangzhou.aliyuncs.com/kellyli/pms-docker:latest
