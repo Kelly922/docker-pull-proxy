@@ -1,1 +1,1 @@
-wiznote/wizserver:latest registry.cn-hangzhou.aliyuncs.com/kellyli/wizserver:latest
+jonnyan404/verysync:latest registry.cn-hangzhou.aliyuncs.com/kellyli/verysync:latest
