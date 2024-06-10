@@ -1,1 +1,1 @@
-zonty/nas-tools:2.9.1 registry.cn-hangzhou.aliyuncs.com/kellyli/nas-tools:2.9.1
+linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/kellyli/transmission:latest
