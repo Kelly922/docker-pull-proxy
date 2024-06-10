@@ -1,1 +1,1 @@
-iyuucn/iyuuplus-dev:latest registry.cn-hangzhou.aliyuncs.com/kellyli/iyuuplus-dev:latest
+gdy666/lucky:latest registry.cn-hangzhou.aliyuncs.com/kellyli/lucky:latest
