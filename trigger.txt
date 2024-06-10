@@ -1,1 +1,1 @@
-linuxserver/transmission:latest registry.cn-hangzhou.aliyuncs.com/kellyli/transmission:latest
+iyuucn/iyuuplus:latest registry.cn-hangzhou.aliyuncs.com/kellyli/iyuuplus:latest
