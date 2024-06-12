@@ -1,1 +1,1 @@
-gdy666/lucky:latest registry.cn-hangzhou.aliyuncs.com/kellyli/lucky:latest
+jxxghp/moviepilot registry.cn-hangzhou.aliyuncs.com/kellyli/jxxghp/moviepilot
