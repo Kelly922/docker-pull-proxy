@@ -1,1 +1,1 @@
-jxxghp/moviepilot registry.cn-hangzhou.aliyuncs.com/kellyli/jxxghp/moviepilot
+jxxghp/moviepilot registry.cn-hangzhou.aliyuncs.com/kellyli/moviepilot
